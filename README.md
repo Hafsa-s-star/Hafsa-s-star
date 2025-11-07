@@ -30,22 +30,21 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hafsa-s-star&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hafsa-s-star&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hafsa-s-star&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hafsa-s-star&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
 </p>
 
 ---
 
 ### 🐍 GitHub Contribution Snake
 <p align="center">
-  <img src="https://github.com/Hafsa-s-star/Hafsa-s-star/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
+  <img src="https://raw.githubusercontent.com/github-contribution-grid-snake/github-contribution-grid-snake/master/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
 </p>
 
 ---
 
 ### ✨ Visitors
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Hafsa-s-star.Hafsa-s-star" alt="Visitor Count" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Hafsa-s-star.Hafsa-s-star" alt="Visitor Count" />
 </p>
 
+ 
