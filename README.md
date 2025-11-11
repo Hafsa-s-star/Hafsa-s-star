@@ -35,10 +35,15 @@
 
 ---
 
-### 🐍 GitHub Contribution Snake
-<p align="center">
-   <img src="https://github.com/Hafsa-s-star/Hafsa-s-star/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
+###  ❤ Followers And Views 
+
+<p align="left">
+  <a href="https://github.com/Hafsa-s-star?tab=followers">
+    <img src="https://img.shields.io/github/followers/Hafsa-s-star?label=Followers&style=social" alt="GitHub Followers Badge">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Hafsa-s-star&label=Profile%20views&color=0e75b6&style=flat" alt="Hafsa-s-star Profile Views" />
 </p>
+
 
 ---
 
