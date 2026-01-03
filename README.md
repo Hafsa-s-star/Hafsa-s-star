@@ -2,7 +2,7 @@
 <h3 align="center">💻 Web Developer | Coding Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
-  🌱 Currently exploring <b>HTML, CSS, JavaScript</b><br>
+  🌱 Currently exploring <b>HTML, CSS, JavaScript(Advanced)</b><br>
   💡 Motto: <i>"Code like poetry, debug like a detective."</i><br>
   🎯 Fun Fact: I love turning coffee ☕ into code 💻
 </p>
