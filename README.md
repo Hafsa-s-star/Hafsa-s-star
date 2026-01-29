@@ -66,13 +66,13 @@
 </p>
 
  
-### ✨ Github Stats
- <p align="center">
+ ### ✨ GitHub Stats
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hafsa-s-star&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
 </p>
 
-### 🔥 Github Streak
+### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Hafsa-s-star&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Hafsa-s-star&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
