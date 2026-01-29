@@ -68,5 +68,5 @@
  
 ### ✨ Github Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=default" alt="Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hafsa-s-star&show_icons=true&theme=default" alt="Github Stats" />
 </p>
